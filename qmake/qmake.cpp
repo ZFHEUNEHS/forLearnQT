@@ -1,3 +1,5 @@
+#file description:
+#简单的cmd指令窗口模仿
 #include <QApplication>
 #include<QLabel>
 #include<QLineEdit>
